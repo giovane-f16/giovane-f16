@@ -34,7 +34,7 @@
   </td>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=giovane-f16&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="giovane-f16" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=giovane-f16&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="giovane-f16" /></p>
   </td>
   <tr>
   <td colspan = 2><br><p align = "center"> Estou aprendendo </p></td>
