@@ -30,7 +30,7 @@
   <tr>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovane-f16&layout=compact&langs_count=7&theme=radical" alt="giovane-f16" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovane-f16&layout=compact&langs_count=7&theme=midnight-purple" alt="giovane-f16" /></p>
   </td>
   <td width = "50%">
   <br>
