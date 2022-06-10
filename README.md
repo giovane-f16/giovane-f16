@@ -43,7 +43,7 @@
   <br>
   <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="50" height="50"/>
+  <img src="https://github.com/giovane-f16/giovane-f16/blob/main/icons/nodejs.png" alt="nodejs" width="50" height="50"/>
   </p>
   </table>
 
