@@ -42,7 +42,7 @@
   <td colspan=2 width ="50%">
   <br>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="50" height="50"/>
+  <img src="https://github.com/giovane-f16/giovane-f16/blob/main/icons/vue-js.png" alt="vuejs" width="50" height="50"/>
   <img src="https://github.com/giovane-f16/giovane-f16/blob/main/icons/nodejs.svg" alt="nodejs" width="50" height="50"/>
   </p>
   </table>
