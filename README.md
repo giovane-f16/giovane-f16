@@ -1,5 +1,5 @@
 ### Olá! Me chamo Giovane Ferreira
-- 🔭 Atualmente trabalho com suporte técnico e desenvolvimento de sites
+- 🔭 Atualmente trabalho como Desenvolvedor Web Jr!
 - 🎒 Estudante de S.I 8/8
 <tr>
   <table width="100%">
@@ -43,7 +43,7 @@
   <br>
   <p align="center">
   <img src="https://github.com/giovane-f16/giovane-f16/blob/main/icons/vue-js.png" alt="vuejs" width="75" height="50"/>
-  <img src="https://github.com/giovane-f16/giovane-f16/blob/main/icons/nodejs.svg" alt="nodejs" width="50" height="50"/>
+  <img src="/icons/docker.png" alt="docker" width="50" height="50"/>
   </p>
   </table>
 
