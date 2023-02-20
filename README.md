@@ -9,11 +9,13 @@
   <td width="50%">
 
  <p align = "center">
-  <img align="center" alt="Gio-PHP" height="40" width="40"
-       src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
-  <img align="center" alt="Gio-JS" height="30" width="30" src="/icons/javascript.png">
-  <img align="center" alt="Gio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gio-PHP" height="50" width="50"
+       src="https://www.php.net/images/logos/php-logo-white.svg">
+  <img align="center" alt="Gio-WP" height="40" width="40"
+       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">
+  <img align="center" alt="Gio-JS" height="40" width="40" src="/icons/javascript.png">
+  <img align="center" alt="Gio-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gio-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </p>
 
   </td>
