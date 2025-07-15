@@ -5,12 +5,12 @@
 
 ###
 
-<h3>
+<p>
 	Me chamo Giovane - sou desenvolvedor fullstack e estudante da FIAP.
 	Trabalho em projetos diversos no meu tempo livre.
-</h3>
+</p>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h4 align="left">🛠 Language and tools</h4>
 
 ###
 
