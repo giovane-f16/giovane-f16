@@ -1,9 +1,7 @@
-<table>
-  <tr>
-    <td><h1>hey there 👋</h1></td>
-    <td><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="100"/></td>
-  </tr>
-</table>
+<h1>
+	hey there 👋
+	<img height="100" width="auto" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+</h1>
 
 ###
 
