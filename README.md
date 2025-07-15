@@ -1,14 +1,14 @@
 <div style="display:flex; align-items: center; justify-content:space-between">
-  <h1>hey there 👋</h1>
+  <p style="font-size:18px: font-weight: 700;">hey there 👋</p>
   <img height="100" width="auto" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
 
-<h2 style="font-size:16px; font-weight: normal">
+<p style="font-size:16px; font-weight: normal">
 	Me chamo Giovane - sou desenvolvedor fullstack e estudante da FIAP.
 	Trabalho em projetos diversos no meu tempo livre.
-</h2>
+</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
