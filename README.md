@@ -1,7 +1,9 @@
-<div style="display:flex; align-items: center; justify-content:space-between">
-  <h1>hey there 👋</h1>
-  <img height="100" width="auto" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<table>
+  <tr>
+    <td><h1>hey there 👋</h1></td>
+    <td><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="100"/></td>
+  </tr>
+</table>
 
 ###
 
