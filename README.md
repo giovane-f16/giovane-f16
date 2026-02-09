@@ -20,13 +20,4 @@
 
 </div>
 
-<details>
-  <summary>Github Stats ⚡</summary>
-  <br>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=giovane-f16&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github&card_width=100" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovane-f16&theme=midnight-purple&layout=compact&card_width=100">
-</div>
-</details>
-
 ###
