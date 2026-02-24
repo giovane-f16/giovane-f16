@@ -6,8 +6,7 @@
 ###
 
 <p>
-	Me chamo Giovane - sou desenvolvedor fullstack e estudante da FIAP.
-	Trabalho em projetos diversos no meu tempo livre.
+	Me chamo Giovane - Sou desenvolvedor Full Stack e trabalho em projetos diversos no meu tempo livre.
 </p>
 
 <h4>🛠 Language and tools</h4>
