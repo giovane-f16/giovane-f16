@@ -6,7 +6,7 @@
 ###
 
 <p>
-	Me chamo Giovane - Sou desenvolvedor Full Stack e trabalho em projetos diversos no meu tempo livre.
+	Hi, I'm Giovane. I'm a Full Stack Developer, and I work on various personal projects in my free time.
 </p>
 
 <h4>🛠 Language and tools</h4>
